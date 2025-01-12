@@ -3,8 +3,8 @@
 // #define WIFI_SSID                    "Your-ssid"
 // #define WIFI_PASSWORD                "Your-password"
 
-#define WIFI_SSID                    "Prabh Wifi 2G"
-#define WIFI_PASSWORD                "bhatti282966"
+#define WIFI_SSID                    "***********"
+#define WIFI_PASSWORD                "***********"
 
 #define WIFI_CONNECT_WAIT_MAX        (30 * 1000)
 
